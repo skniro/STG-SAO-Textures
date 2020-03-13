@@ -1,0 +1,3 @@
+menu1.ogg = story of the past
+menu2.ogg = longing
+menu3.ogg = Ubiquitous dB

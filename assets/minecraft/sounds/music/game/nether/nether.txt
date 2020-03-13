@@ -1,0 +1,4 @@
+nether1.ogg = she has a luminous sword
+nether2.ogg = Survive The Swordland
+nether3.ogg = The First Town
+nether4.ogg = At Nightfall

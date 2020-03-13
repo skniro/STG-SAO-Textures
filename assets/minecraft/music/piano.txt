@@ -1,0 +1,3 @@
+piano1.ogg = Break Beat Bark!
+piano2.ogg = friendly feelings
+piano3.ogg = a new world of fairies
