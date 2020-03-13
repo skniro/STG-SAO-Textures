@@ -1,0 +1,3 @@
+end.ogg = father and daughter
+credits.ogg = dance with me
+boos.ogg = aincrad

@@ -1,0 +1,4 @@
+hal1.ogg = back ground music No.1
+hal2.ogg = smile for you
+hal3.ogg = the lost daughter
+hal4.ogg = victory
